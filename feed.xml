@@ -16,8 +16,10 @@
 <description>Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest news and analyses on the future of money.</description>
 </image>
 <item>
+<category domain="tradingview:symbol">NASDAQ:LION</category>
+<category domain="tradingview:market">index</category>
 <title>
-<![CDATA[ Norwegian central bank uses Ethereum to build national digital currency 1 ]]>
+<![CDATA[ Norwegian central bank uses Ethereum to build national digital currency 1 1]]>
 </title>
 <link>https://cointelegraph.com/news/norwegian-central-bank-uses-ethereum-to-build-national-digital-currency</link>
 <dc:creator>
@@ -31,8 +33,10 @@
 <media:content medium="image" url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDkvZmU1NmEyMDItMjQyZC00NGJkLWJhOWUtZGY2ZjAzNTExYTZjLmpwZw==.jpg" width="528"/>
 </item>
 <item>
+<category domain="tradingview:symbol">NASDAQ:LION</category>
+<category domain="tradingview:market">index</category>
 <title>
-<![CDATA[ Indian authorities unfreeze millions in locked WazirX bank accounts 1 ]]>
+<![CDATA[ Indian authorities unfreeze millions in locked WazirX bank accounts 1 1]]>
 </title>
 <link>https://cointelegraph.com/news/indian-authorities-unfreeze-millions-in-locked-wazirx-bank-accounts</link>
 <dc:creator>
