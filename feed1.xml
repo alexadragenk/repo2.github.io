@@ -1,0 +1,49 @@
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>Cointelegraph.com News</title>
+<atom:link href="https://cointelegraph.com/rss-trading-view" rel="self" type="application/rss+xml"/>
+<link>https://cointelegraph.com</link>
+<description>Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest news and analyses on the future of money.</description>
+<generator>cointelegraph.com</generator>
+<lastBuildDate>Mon, 12 Sep 2022 11:16:23 +0100</lastBuildDate>
+<language>en</language>
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<image>
+<title>Cointelegraph.com News</title>
+<link>https://cointelegraph.com</link>
+<url>https://cointelegraph.com/assets/img/CT_Logo_YG_tag.png</url>
+<description>Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest news and analyses on the future of money.</description>
+</image>
+<item>
+<title>
+<![CDATA[ Norwegian central bank uses Ethereum to build national digital currency 1 1222211451]]>
+</title>
+<link>https://cointelegraph.com/news/norwegian-central-bank-uses-ethereum-to-build-national-digital-currency</link>
+<dc:creator>
+<![CDATA[ Cointelegraph By Helen Partz ]]>
+</dc:creator>
+<pubDate>Mon, 12 Sep 2022 10:20:00 +0100</pubDate>
+<guid isPermaLink="false">https://cointelegraph.com/news/norwegian-central-bank-uses-ethereum-to-build-national-digital-currency1</guid>
+<description>
+<![CDATA[ <p>The central bank of Norway has hit a major milestone in digital currency efforts, releasing the open source code for the country&rsquo;s <a href="https://cointelegraph.com/cryptocurrency-regulation-for-beginners/what-are-cbdcs-a-beginners-guide-to-central-bank-digital-currencies">central bank digital currency (CBDC)</a>&nbsp;sandbox.<p>Available on GitHub, the sandbox is designed to offer an interface for interacting with the test network, enabling functions like minting, burning and transferring <a href="https://cointelegraph.com/explained/erc-20-tokens-explained">ERC-20 tokens</a>, the Norges Bank&rsquo;s official CBDC partner Nahmii said in a blog post.</p><p>Nahmii stressed that the current version of the code does not support the major Ethereum wallet MetaMask by design and is only privately accessible by users with appropriate credentials.</p><p>In addition to deploying the appropriate smart contracts and access controls, the Norges Bank sandbox includes a custom frontend and network monitoring tools like BlockScout and Grafana. The front end also shows a filterable summary of transactions on the network, Nahmii noted.</p><p>The Norges Bank took to Twitter on Friday to mention that Norway&rsquo;s CBDC prototype infrastructure is based on Ethereum technology.</p><p>The central bank previously made a reference to Ethereum in a CBDC-related blog post in May. The Norges Bank stated that the Ethereum cryptocurrency system is expected to provide a &ldquo;core infrastructure&rdquo; for issuance, distribution and destruction of digital central bank money, which is also referred to as DSP. &ldquo;The prototype will be used to test a number of the important features for DSP,&rdquo; the bank said.</p><p>As previously reported, the Norges Bank officially <a href="https://cointelegraph.com/news/norway-to-start-digital-currency-tests-after-four-years-of-research">announced plans to conduct CBDC tests</a> in April last year, expecting to find a preferred CBDC solution by trialing different designs for a period of two years.</p><p>In November 2021, the central bank issued a working paper referring to possible CBDC designs, including those based on blockchains like Ethereum, Bitcoin and Bitcoin SV. The Norges Bank emphasized that interoperability was one of the most important problems while considering various technical solutions.</p><p>The news came amid the International Monetary Fund releasing a report indicating that 97 countries, or more than half of global central banks, were exploring or developing CBDCs as of July 2022. On the other hand, only two countries have fully launched CBDC projects so far, including Nigeria and The Bahamas, the IMF said.</p><figure><img src="https://s3.cointelegraph.com/uploads/2022-09/79793807-89b2-41a4-bc46-5e2a7e7ee9cc.png"><figcaption style="text-align: center;"><em>Global CBDC development in 2022. Source: IMF</em></figcaption></figure><p>In September, the IMF said that it had been working on a project related to an interoperable CBDC platform connecting multiple global CBDCs and enabling cross-border transactions.</p></p> ]]>
+</description>
+<media:content medium="image" url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDkvZmU1NmEyMDItMjQyZC00NGJkLWJhOWUtZGY2ZjAzNTExYTZjLmpwZw==.jpg" width="528"/>
+</item>
+<item>
+<title>
+<![CDATA[ Indian authorities unfreeze millions in locked WazirX bank accounts 1 1222211451]]>
+</title>
+<link>https://cointelegraph.com/news/indian-authorities-unfreeze-millions-in-locked-wazirx-bank-accounts</link>
+<dc:creator>
+<![CDATA[ Cointelegraph By ]]>
+</dc:creator>
+<pubDate>Mon, 12 Sep 2022 10:06:29 +0100</pubDate>
+<guid isPermaLink="false">https://cointelegraph.com/news/indian-authorities-unfreeze-millions-in-locked-wazirx-bank-accounts1</guid>
+<description>
+<![CDATA[ <p>The Enforcement Directorate of India (ED) unfroze the bank accounts of the Indian crypto exchange WazirX, according to a statement from the exchange released on Monda.<p>WazirX says it has been cooperating with local authorities during their Anti-Money Laundering (AML) investigation by providing all of the necessary documents and details requested. The investigation targeted 16 fintech companies and instant loan apps, some of which solicited services from the exchange.</p><p>The exchange, however, said it has a no-tolerance stance toward any illegal activities on the platform. Additionally, it said that most of the targeted users in the ED investigation had already been flagged as suspicious by WazirX and blocked in 2020-2021.</p><p>WazirX told Cointelegraph the case is still under investigation, but funds have been unfrozen due to no suspicious activity found, with &ldquo;no further comment as of now.&rdquo;</p><p>Funds in WazirX bank accounts <a href="https://cointelegraph.com/news/indian-authorities-freeze-8-1m-in-wazirx-funds-as-part-of-aml-investigation">had been frozen since Aug. 5</a>, when the ED initially announced the investigation. The locked funds amounted to over $8.1 million in total.</p><blockquote class="twitter-tweet"><p lang="en" dir="ltr">ED searches the Director of WazirX Crypto-Currency Exchange &amp; freezes its Bank assets worth Rs 64.67 Crore for assisting accused Instant Loan APP Companies in laundering of fraud money via purchase &amp; transfer of virtual crypto assets.</p>&mdash; ED (@dir_ed) <a href="https://twitter.com/dir_ed/status/1555499510117576705?ref_src=twsrc%5Etfw">August 5, 2022</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><p>The ED&rsquo;s accusations against WazirX claimed&nbsp;<a href="https://cointelegraph.com/news/indian-law-enforcement-accuses-wazirx-exchange-of-aiding-in-laundering-of-130m">it had processed $130 million in transfers</a> of funds to wallets under investigation for illegal activities. In light of the accusations, Binance, which once tried to acquire the company in 2019, <a href="https://cointelegraph.com/news/binance-distances-from-wazirx-as-indian-regulators-keep-chasing-crypto">distanced itself from the exchange</a> via a public statement from CZ on Twitter.</p><p>Prior to the recent activity, the exchange was under ED investigation in 2021 for money laundering charges related to illegal online gambling proceeds tied to Chinese entities.</p><p>This time around, the crackdown on crypto exchanges in the country did not stop with WazirX. On Aug. 12,&nbsp;the ED froze a total of $46.4 million in Yellow Tune&rsquo;s bank balances and balances from crypto exchange Flipvolt. The allegations were also money laundering related, and the company was accused of being a shell for Chinese entities.</p><p>Authorities said the funds would remain unavailable until the exchange can account for the criminal proceeds that it transferred out of the country.</p><p>These investigations began to pile up after the Indian government announced crushing new crypto tax regulations, which came into effect earlier this year.</p></p> ]]>
+</description>
+<media:content medium="image" url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDkvM2I1ZGZhYTAtYTYzNS00MTczLTkwODgtNzI0OWIzZWM0NjdjLmpwZw==.jpg" width="528"/>
+</item>
+</channel>
+</rss>
